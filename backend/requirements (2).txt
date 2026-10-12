@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymupdf
+groq
+reportlab
+python-jose[cryptography]
+python-multipart
+pydantic
