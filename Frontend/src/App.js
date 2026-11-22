@@ -7,7 +7,7 @@ import {
 // ============================================================
 // CONFIG — Update this if your Render URL changes
 // ============================================================
-const API_BASE = "https://finadvisor-backend.onrender.com";
+const API_BASE = "https://finpulse-backend-grzg.onrender.com";
 
 // ============================================================
 // DESIGN TOKENS
